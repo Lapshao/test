@@ -1013,7 +1013,7 @@ import turtle
 #
 # main()
 
-# Задание 8 8
+# Задание 8 8 8
 
 import turtle
 import math
